@@ -5,7 +5,8 @@
 This project is a responsive landing page for RwandAir Holidays, showcasing package deals and allowing users to search for flight and hotel combinations. The page features a modern, user-friendly design with a focus on accessibility and performance.
 
 ## Live Link
-A live link of this landing page can be found [HERE]()
+
+A live link of this landing page can be found [HERE](https://dragonfly-assessment.vercel.app/)
 
 ## Prerequisites
 
